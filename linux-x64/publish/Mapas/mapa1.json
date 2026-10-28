@@ -1,0 +1,36 @@
+{
+    "Width": 1200,
+    "Height": 600,
+    "XPlayer": 550,
+    "YPlayer": 549,
+    "Objetos": [
+        {
+            "textura": "Jogador/Parado",
+            "x": 0,
+            "y": 600,
+            "width": 1200,
+            "height": 1
+        },
+        {
+            "textura": "Jogador/Parado",
+            "x": 100,
+            "y": 500,
+            "width": 300,
+            "height": 30
+        },
+        {
+            "textura": "Jogador/Parado",
+            "x": 500,
+            "y": 400,
+            "width": 200,
+            "height": 30
+        },
+        {
+            "textura": "Jogador/Parado",
+            "x": 900,
+            "y": 300,
+            "width": 50,
+            "height": 200
+        }
+    ]
+}
